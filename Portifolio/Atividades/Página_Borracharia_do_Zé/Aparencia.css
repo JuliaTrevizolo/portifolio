@@ -1,0 +1,89 @@
+body{background-color: #faf9e3;
+}
+
+.sidebar {width: 15%;
+background-color: solid #8B4513;
+
+}
+.titulo p{font-family: Baskerville Old Face;
+text-align: center;
+font-size: 80px;
+color: #890505;
+text-shadow: 1px 1px 0 black, -1px -1px 0 black;}
+
+.topico p{font-weight: lighter;
+text-align: center;
+font-size: 40px;
+color: #000080;
+text-shadow: 1px 1px 0 black, -1px -1px 0 black;
+}
+
+.texto p{
+   font-size: 30px;
+   text-align: center;
+}
+.borracharia {display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 50%; 
+}
+
+.form{padding: 18px;
+   display: inline-block;
+   align-items: center;}
+   
+   .form-content label{
+      display: block;
+      font-size: 30px;
+   }
+   
+   .form-content input{
+      display: block;
+      margin: 0 0 20px;
+      padding: 10px 25px;
+      width: 95%;
+   }
+   
+   .form-content button{
+      text-align: center;
+      width: 50%;
+      background-color: #890505;
+      color: #faf9e3;
+      font-size: 20px;
+      border-radius: 14px;
+      text-shadow: 1px 1px 0 black, -1px -1px 0 black;
+}
+
+table, th, td, tr{border: 1px solid black;
+}
+
+table{width: 40%; 
+margin: 0 auto; 
+align-items:right;
+background-color: #890505;
+font-size: 25px; 
+color: #ffffff; 
+text-shadow: 2px 2px 0 black, -2px -2px 0 black;
+}
+
+tr{border-collapse: collapse;
+}
+
+th{padding: 5px; text-align: center
+}
+
+td{padding: 5px; 
+   text-align: center; 
+   border:none;
+}
+
+.autora-text p{
+font-weight: lighter;
+text-indent: 50px;
+font-size: 40px;
+}
+
+.autora img{width: fit-content;
+   height:40mm;
+   border-radius: 50%;
+}

@@ -1,0 +1,14 @@
+body{padding: 1%;
+     font-family: Arial;
+     background-image: url('https://www.shutterstock.com/shutterstock/videos/1102816461/thumb/1.jpg?ip=x480');
+    }
+hr{height: 5px;
+   background-color: #ccbb99;
+   border: none;}
+h1{text-align: right;
+   background-color: #ccbb99;}
+   h6{background-color: #ccbb99;}
+p{color: #ccbb99;
+  text-align: justify;
+  font-weight: bolder;
+  text-indent: 5%;}

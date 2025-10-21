@@ -1,0 +1,48 @@
+body{
+    background-image: url('fundo_lennon.gif');
+    border: 1px;
+    color: #ad0000;
+    border-color: #6d1101;
+}
+h2{font-family: Arial;
+    color: #edc989;
+    background-color: #6d1101;
+}
+p{font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+}
+p{font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+}
+p.L{font-family: Arial;
+    font-weight: normal;
+    text-align: left;
+    font-size: 20px;
+    font-weight: Bold;
+}
+p.C{font-family: Arial;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 20px;
+    font-weight: Bold;
+}
+p.R{font-family: Arial;
+    font-weight: lighter;
+    text-align: right;
+    font-size: 20px;
+    font-weight: Bold;
+}
+p.Rodape{font-family: Arial;
+    color: #edc989;
+    background-color: #6d1101;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+hr{background-color: #ac0000;
+    height: 3px;
+    border:none
+}
